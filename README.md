@@ -1,4 +1,4 @@
 - 👋 Hey! I'm Aleksanteri Leinonen or sometimes known as ATL. I'm from Finland with background in sports industry and sometimes trying to learn some coding to add to my skillset or potentially help with career change bit later on.
 - 👀 I’m interested in dealing with data and API's, will be looking to learn Python and SQL among other things in future to help with that.
-- 🌱 I’m currently learning JavaScript/Typescript and HTML/CSS.
+- 🌱 I’m currently learning JavaScript/Typescript, Kotlin and HTML/CSS.
 - 📫 You can reach me easiest at discord with ATL#2871 or by email at aleksanteri.leinonen@gmail.com
